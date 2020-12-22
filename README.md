@@ -1,7 +1,7 @@
 # Capstone-Project-II
 Capstone Project II:
 
-The purpose of this project is to clean, organise and analyse the automobile
+The purpose of this project is to clean, organise and analyse automobile data.
 For the automobile dataset, the analysis provides insight into different features of vehicles and how these features effect the price of certain cars.
 The The data analysed was imported from the automobile.txt dataset [dataset used](automobile.txt/CONTRIBUTING.md)
 The dataset was clean, organised and analysed using matplotlib [analysis of data](Autombile.ipynb/CONTRIBUTING.md) 
