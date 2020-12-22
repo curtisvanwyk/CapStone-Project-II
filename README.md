@@ -1,5 +1,5 @@
-# CapStone-Project-II
-CapStone Project II:
+# Capstone-Project-II
+Capstone Project II:
 
 The purpose of this project is to clean, organise and analyse the automobile
 For the automobile dataset, the analysis provides insight into different features of vehicles and how these features effect the price of certain cars.
